@@ -18,3 +18,4 @@
  
  #### 5. Després de compilar ens crearà altre fitxer el cual li haurem indicat el nom que volem anteriorment, en este cas es diu "calcula", i ara soles quedarà executar eate fitxer.
 
+https://github.com/enrgmz15/EDDVisual.git
